@@ -1,0 +1,10 @@
+name: SFly
+version: '${project.version}'
+main: net.swathingbr.fly.Master
+authors: [ SwathingBR ]
+
+commands:
+  fly:
+    description:
+    aliases:
+      - voar
